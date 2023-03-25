@@ -1,0 +1,31 @@
+Suite/Test/Step Name,Browser,Description,Tag,Start time,End time,Duration,Status
+New Test Suite,Chrome 111.0.0.0,,,2023-03-25 21:30:36,2023-03-25 21:31:34,57.974s,PASSED
+,,,,,,,
+Test Cases/Play trailer random movie,Chrome 111.0.0.0,,,2023-03-25 21:30:36,2023-03-25 21:31:04,27.837s,PASSED
+"openBrowser("""")",Chrome 111.0.0.0,,,2023-03-25 21:30:36,2023-03-25 21:30:38,2.182s,PASSED
+"navigateToUrl(""https://m.21cineplex.com/"")",Chrome 111.0.0.0,,,2023-03-25 21:30:38,2023-03-25 21:30:41,2.918s,PASSED
+"click(findTestObject(""Object Repository/Page_M-Tix, Cinema XXI, Cinema 21, 21 Cineplex/img_D17_23JWX2""))",Chrome 111.0.0.0,,,2023-03-25 21:30:41,2023-03-25 21:30:42,0.667s,PASSED
+"click(findTestObject(""Object Repository/Page_M-Tix, Cinema XXI, Cinema 21, 21 Cineplex/button_TRAILER""))",Chrome 111.0.0.0,,,2023-03-25 21:30:42,2023-03-25 21:30:43,0.604s,PASSED
+delay(20),Chrome 111.0.0.0,,,2023-03-25 21:30:43,2023-03-25 21:31:03,20.041s,PASSED
+closeBrowser(),Chrome 111.0.0.0,,,2023-03-25 21:31:03,2023-03-25 21:31:04,1.048s,PASSED
+,,,,,,,
+Test Cases/play trailer upcoming movie,Chrome 111.0.0.0,,,2023-03-25 21:31:04,2023-03-25 21:31:17,12.912s,PASSED
+"openBrowser("""")",Chrome 111.0.0.0,,,2023-03-25 21:31:04,2023-03-25 21:31:05,1.138s,PASSED
+"navigateToUrl(""https://m.21cineplex.com/"")",Chrome 111.0.0.0,,,2023-03-25 21:31:05,2023-03-25 21:31:08,3.087s,PASSED
+"click(findTestObject(""Page_M-Tix, Cinema XXI, Cinema 21, 21 Cineplex/button_Close_navbar-toggle""))",Chrome 111.0.0.0,,,2023-03-25 21:31:08,2023-03-25 21:31:09,0.351s,PASSED
+"click(findTestObject(""Object Repository/Page_M-Tix, Cinema XXI, Cinema 21, 21 Cineplex/a_Up Coming""))",Chrome 111.0.0.0,,,2023-03-25 21:31:09,2023-03-25 21:31:10,1.284s,PASSED
+"click(findTestObject(""Object Repository/Page_M-Tix, Cinema XXI, Cinema 21, 21 Cineplex/img_SU_13JJUN""))",Chrome 111.0.0.0,,,2023-03-25 21:31:10,2023-03-25 21:31:10,0.533s,PASSED
+"click(findTestObject(""Page_M-Tix, Cinema XXI, Cinema 21, 21 Cineplex/button_TRAILER (1)""))",Chrome 111.0.0.0,,,2023-03-25 21:31:10,2023-03-25 21:31:11,0.610s,PASSED
+delay(5),Chrome 111.0.0.0,,,2023-03-25 21:31:11,2023-03-25 21:31:16,5.009s,PASSED
+closeBrowser(),Chrome 111.0.0.0,,,2023-03-25 21:31:16,2023-03-25 21:31:17,0.618s,PASSED
+,,,,,,,
+Test Cases/see movie in other city,Chrome 111.0.0.0,,,2023-03-25 21:31:17,2023-03-25 21:31:34,16.955s,PASSED
+"openBrowser("""")",Chrome 111.0.0.0,,,2023-03-25 21:31:17,2023-03-25 21:31:18,1.079s,PASSED
+"navigateToUrl(""https://m.21cineplex.com/"")",Chrome 111.0.0.0,,,2023-03-25 21:31:18,2023-03-25 21:31:20,1.799s,PASSED
+"click(findTestObject(""Object Repository/Page_M-Tix, Cinema XXI, Cinema 21, 21 Cineplex/button_Close_navbar-toggle""))",Chrome 111.0.0.0,,,2023-03-25 21:31:20,2023-03-25 21:31:20,0.345s,PASSED
+"click(findTestObject(""Object Repository/Page_M-Tix, Cinema XXI, Cinema 21, 21 Cineplex/a_Playing in - JAKARTA""))",Chrome 111.0.0.0,,,2023-03-25 21:31:20,2023-03-25 21:31:21,0.831s,PASSED
+"click(findTestObject(""Object Repository/Page_M-Tix, Cinema XXI, Cinema 21, 21 Cineplex/div_YOGYAKARTA""))",Chrome 111.0.0.0,,,2023-03-25 21:31:21,2023-03-25 21:31:22,0.726s,PASSED
+"click(findTestObject(""Object Repository/Page_M-Tix, Cinema XXI, Cinema 21, 21 Cineplex/div_JOGJA CITY XXI""))",Chrome 111.0.0.0,,,2023-03-25 21:31:22,2023-03-25 21:31:22,0.664s,PASSED
+"mouseOver(findTestObject(""Object Repository/Page_M-Tix, Cinema XXI, Cinema 21, 21 Cineplex/div_25-03-2023Rp 45,0001230 1500 1730 2000 _9ec712""))",Chrome 111.0.0.0,,,2023-03-25 21:31:22,2023-03-25 21:31:23,0.600s,PASSED
+delay(10),Chrome 111.0.0.0,,,2023-03-25 21:31:23,2023-03-25 21:31:33,10.011s,PASSED
+closeBrowser(),Chrome 111.0.0.0,,,2023-03-25 21:31:33,2023-03-25 21:31:34,0.623s,PASSED
