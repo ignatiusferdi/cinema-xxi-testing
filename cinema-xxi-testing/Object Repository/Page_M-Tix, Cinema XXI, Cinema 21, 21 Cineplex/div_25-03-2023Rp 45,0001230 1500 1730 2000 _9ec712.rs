@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_25-03-2023Rp 45,0001230 1500 1730 2000 _9ec712</name>
+   <tag></tag>
+   <elementGuidId>1af4fa96-2d10-4603-b17f-bff39a5e22fc</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>(.//*[normalize-space(text()) and normalize-space(.)='SU'])[2]/following::div[4]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>475b249f-4911-4607-a1b2-6d03ab572733</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>row</value>
+      <webElementGuid>8a15cc87-2dd0-4c09-b884-7e593e9e3656</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>                            25-03-2023Rp 45,00012:30 15:00 17:30 20:00 26-03-2023Rp 45,00012:30 15:00 17:30 20:00                           </value>
+      <webElementGuid>9f6209af-2019-45d7-a386-7707ab76954e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[1]/section[1]/div[@class=&quot;main-content&quot;]/ul[@class=&quot;list-group&quot;]/li[@class=&quot;list-group-item&quot;]/div[3]/div[@class=&quot;row&quot;]</value>
+      <webElementGuid>7f05be08-462d-4309-88ab-9ebdf4d803d5</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='SU'])[2]/following::div[4]</value>
+      <webElementGuid>e106b943-b611-48b5-9c40-502522f4e535</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='SUZUME'])[1]/following::div[4]</value>
+      <webElementGuid>6481e263-86cf-4b27-998d-190b7ff0789e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//li[5]/div[3]/div</value>
+      <webElementGuid>272bba3f-b292-4f56-8d2f-0d5ca47797be</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = '                            25-03-2023Rp 45,00012:30 15:00 17:30 20:00 26-03-2023Rp 45,00012:30 15:00 17:30 20:00                           ' or . = '                            25-03-2023Rp 45,00012:30 15:00 17:30 20:00 26-03-2023Rp 45,00012:30 15:00 17:30 20:00                           ')]</value>
+      <webElementGuid>3070ebc0-e222-4d11-b2eb-c41252cbc08c</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
